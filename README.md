@@ -44,7 +44,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 In this project running on React, data visualization was made in tree structures using D3.js, D3-Hierarchy, and React-D3-Tree libraries.
 
-![Live Demo](https://www.google.com/search?q=google&oq=google&aqs=chrome..69i57j46i67i199i465j69i59j35i39j0i67l6.897j0j15&sourceid=chrome&ie=UTF-8)
+
 
 ![Project Image 1](./SS1.png)
 
