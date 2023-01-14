@@ -1,0 +1,97 @@
+.bttn{
+  color: rgb(0, 0, 0);
+  background-color: whitesmoke;
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-width: 1px;
+}
+
+.btt{
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-width: 1px;
+  border-color: whitesmoke;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.btt:hover{
+  background-color: black;
+  color: whitesmoke;
+}
+
+
+.menu {
+  font-size: 14px;
+  background-color: #fff;
+  border-radius: 2px;
+  padding: 5px 0 5px 0;
+  width: 150px;
+  height: auto;
+  margin: 0;
+/* use absolute positioning  */
+  position: absolute;
+  list-style: none;
+  box-shadow: 0 0 20px 0 #ccc;
+  opacity: 1;
+  transition: opacity 0.5s linear;
+}
+
+.butonContext{
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-width: 0px;
+  transition-duration: 0.4s;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.butonContext:hover {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+.baslik{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+.rightContainer {
+  background-color: whitesmoke;
+  width: 25%;
+  min-height: 75vh;
+  height: min-content;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  float: right;
+  margin-top: 50px;
+  margin-right: 25px;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+
+.rd3t-leaf-node {
+  fill: #598f4f !important;
+
+}
+
+.rd3t-node {
+  fill: #5f3829 !important;
+  stroke-width: 3px !important ;
+
+
+}
+
